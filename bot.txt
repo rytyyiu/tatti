@@ -1,0 +1,5 @@
+{
+	"ip":"hadiabadsmp.aternos.me",
+	"port": "16690",
+	"name": "gadha"
+}
